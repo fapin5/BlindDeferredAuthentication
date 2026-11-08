@@ -1,3 +1,35 @@
+# ==========================================
+# LICENSES / LICENÇAS / LICENCIAS
+# ==========================================
+# [PT-BR] 
+# O Software e os Exemplos de Código estão licenciados sob a Licença MIT.
+# A Documentação e os arquivos Markdown estão licenciados sob CC-BY-4.0.
+# Menção/Atribuição: Mantenha os créditos para bluetec.dev.br
+#
+# [EN] 
+# Software and Code Examples are licensed under the MIT License.
+# Documentation and Markdown files are licensed under CC-BY-4.0.
+# Mention/Attribution: Please keep the credits for bluetec.dev.br
+#
+# [ES] 
+# El Software y los Ejemplos de Código están licenciados bajo la Licencia MIT.
+# La Documentación y los archivos Markdown están licenciados bajo CC-BY-4.0.
+# Mención/Atribución: Mantenga los créditos para bluetec.dev.br
+
+PROJECT_NAME="Blind Deferred Authentication"
+AUTHOR="bluetec.dev.br"
+LICENSE_CODE="MIT"
+LICENSE_DOCS="CC-BY-4.0"
+
+# ==========================================
+# SYSTEM CONFIGURATION / CONFIGURAÇÃO
+# ==========================================
+# Time toll in seconds (Atraso em segundos)
+AUTH_DELAY_SECONDS=10
+REDIS_TTL_SECONDS=60
+
+
+================================================================================
 MIT License
 
 Copyright (c) 2026 Farley Araujo Pinheiro
